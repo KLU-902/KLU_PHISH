@@ -146,15 +146,15 @@ banner() {
         ${ORANGE}           ░█─░█ ░█▄▄█ ─▀▄▄▀ ░█─── ░█─░█ ▄█▄ ░█▄▄▄█ ░█─░█                        
 	                                                                                          ${RED}Version : 2.1
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by KLU (@K_L_U MODDING YT)${WHITE}
 	EOF
 }
 
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-		${BLUE}
-		${BLUE}  
+		${RED}
+		${RED}  
 ██████████████████████████████████████████████████████████████████████████████
 █▒▒▒▒▒▒██▒▒▒▒▒▒▒▒█▒▒▒▒▒▒█████████▒▒▒▒▒▒██▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒██▒▒▒▒▒▒█
 █▒▒▄▀▒▒██▒▒▄▀▄▀▒▒█▒▒▄▀▒▒█████████▒▒▄▀▒▒██▒▒▄▀▒▒█▒▒▄▀▄▀▄▀▄▀▄▀▒▒█▒▒▄▀▒▒██▒▒▄▀▒▒█
