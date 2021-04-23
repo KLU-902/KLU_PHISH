@@ -6,16 +6,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/KLU_PHISH?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/KLU_PHISH?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/KLU_PHISH?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/KLU_PHISH?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/KLU-902/KLU_PHISH?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/KLU-902/KLU_PHISH?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/KLU-902/KLU_PHISH?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/KLU-902/KLU_PHISH?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-K_L_U MODDINGcyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
@@ -38,7 +38,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/KLU_PHISH.git
+$ git clone git://github.com/KLU-902/KLU_PHISH.git
 ```
 
 - Change to cloned directory and run `KLU_PHISH.sh` -
@@ -78,12 +78,12 @@ $ docker run --rm -it KLU-902/KLU_PHISH
 
 ### Special Thanks :
 
-- [**NO ONE IT IS ALL MY HARD WORK. 
+- [**NO ONE ...,IT IS ALL MY HARD WORK. 
 
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://github.com/KLU-902" target="_blank"><img src="https://img.shields.io/badge/Github-KLU-902green?style=for-the-badge&logo=github"></a>
+  <img src="KLU MODDING🤝-red?style=for-the-badge&logo=instagram"></a>
+  <a href="K_L_U MODDING YT" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
